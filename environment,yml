@@ -1,0 +1,7 @@
+name: reproducible-science-tools
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy=1.14.3
+  - pandas=1.15.1
